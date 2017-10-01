@@ -11,10 +11,10 @@ WARN = '33[93m'
 NG = '33[91m'
 END_CODE = '33[0m'
 
-api = twitter.Api(consumer_key='ONSjLdQEezB4PFu8Bkc9sdmZB',
-                      consumer_secret='OTyi1341jMF2DwU5uMYWZoAZERl4S9mH92Hi58sOPpW4grjq3p',
-                      access_token_key='772207710687236096-oTWbHmtHVT4r8a1ujJPEPXUA3wAk2wk',
-                      access_token_secret='94iVWZUiSKxGythLOrWR7mS97xxRrtguSVtdbMY72oSEt')
+api = twitter.Api(consumer_key='',
+                      consumer_secret='',
+                      access_token_key='',
+                      access_token_secret='')
 
 #ScheduledTimes = [datetime.datetime.time(8,30,0),datetime.datetime.time(6,0,0)]
 ScheduledTimes = ["8:30","7:15"]
